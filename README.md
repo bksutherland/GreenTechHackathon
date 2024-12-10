@@ -13,7 +13,7 @@
     <li>Batteryless Bicycle Tail Light</li>
     <li>Batteryless Bicycle Headlight</li>
     <li>Portable Solar-Powered Office</li>
-    <li>Portable Solar-Powered Office</li>
+    <li>Bluetooth Stereo from eWaste</li>
   </ul>
 <h1>Frequently Asked Questions</h1>
   <p>How do hybrid supercapacitors, also called lithium ion capacitors compare to batteries?</p>
