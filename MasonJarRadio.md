@@ -1,3 +1,3 @@
 <!DOCTYPE html>
-<h1>Mason Jar Radio</h1>
+<h1>Batteryless FM Radio in a Mason Jar</h1>
 </html>
