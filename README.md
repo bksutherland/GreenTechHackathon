@@ -18,13 +18,13 @@
   </ul>
 <h1>Frequently Asked Questions</h1>
   <p>How do hybrid supercapacitors, also called lithium ion capacitors compare to batteries?</p>
-  <p><pre>Typically energy storage solutions are compared along two dimensions, energy density (ability to store energy in a given volume) and power density (ability to supply the energy at a significant rate from a given volume).   Visually this is called a <a href="https://en.wikipedia.org/wiki/Ragone_plot#/media/File:Lithium_Ion_Capacitor_Chart.png">Ragone plot</a> and you may observe that lithium ion capacitors have a similar energy density to low end batteries, but a higher power density.   Not captured on the plot are that they recharge much more, 500 000x and last much longer, decades!  They also are less affected by low temperatures, which can be useful in a country like Canada.
+  <p>Typically energy storage solutions are compared along two dimensions, energy density (ability to store energy in a given volume) and power density (ability to supply the energy at a significant rate from a given volume).   Visually this is called a <a href="https://en.wikipedia.org/wiki/Ragone_plot#/media/File:Lithium_Ion_Capacitor_Chart.png">Ragone plot</a> and you may observe that lithium ion capacitors have a similar energy density to low end batteries, but a higher power density.   Not captured on the plot are that they recharge much more, 500 000x and last much longer, decades!  They also are less affected by low temperatures, which can be useful in a country like Canada.
   <p>Why haven't heard of this before?</pre></p>
   <p>A combination of reasons.  Some products like solar calculators and solar wristwatches (such as the Citizen Eco-Drive, or Swatch solar) you may have heard of but were unaware they used capacitors instead of batteries.  The other reason is simply that there are a lot of new advances -- only recently did hybrid supercapacitors come out in the market (2020), and even more recently, sizes in the 1100F range (2022).
   <p>Where are hybrid supercapacitors made?</p>
-  <p><pre><a href="https://www.eaton.com/ie/en-gb/company/careers/life-at-eaton/dublin.html">Eaton Electronics</a> in Dublin; cds in Asia;</pre></p>
+  <p><a href="https://www.eaton.com/ie/en-gb/company/careers/life-at-eaton/dublin.html">Eaton Electronics</a> in Dublin; cds in Asia;</pre></p>
   <p>What are hybrid supercapacitors made of?</p>
-  <p><pre>While it's true that critical minerals like lithium are used in hybrid supercapacitors, they recharge and last much longer than rechargeable batteries.  More long lasting products would result in a reduction of the need for critical minerals and generate less carbon from mining, manufacturing and eWaste.</pre></p>
+  <p>While it's true that critical minerals like lithium are used in hybrid supercapacitors, they recharge and last much longer than rechargeable batteries.  More long lasting products would result in a reduction of the need for critical minerals and generate less carbon from mining, manufacturing and eWaste.</pre></p>
 <h2>Prior work on this theme</h2>
 <a href="https://orcid.org/0000-0002-8205-0719">Orchid listing of published academic works</a><br/>
 <a href="https://youtu.be/Zicvndw5lNI?si=3cR8pBB4yYd79-CS">Low Carbon Consumer Electronics - presentation from July on Youtube</a>
