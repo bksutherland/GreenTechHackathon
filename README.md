@@ -10,7 +10,7 @@
 <h1>Speculative Prototyping Projects</h1>
   <p><a href="https://dunneandraby.co.uk">Dunne and Raby</a> originated the expression critical or speculative prototyping in their design work around 2005, in Hertzian Tales.  The essential idea is to discuss examine and critique social issues by redesigning objects we use (particularly electronics objects) in alternative ways.  With that in mind, here are a number of projects which use the approach outlined in the Introduction.</p>
   <ul>
-    <li>Batteryless FM Radio in a Mason Jar</li>
+    <li><a href="https://github.com/bksutherland/GreenTechHackathon/blob/main/MasonJarRadio.md">Batteryless FM Radio in a Mason Jar</a></li>
     <li>Batteryless Bicycle Tail Light</li>
     <li>Batteryless Bicycle Headlight</li>
     <li>Portable Solar-Powered Office</li>
