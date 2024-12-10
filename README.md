@@ -15,8 +15,10 @@
     <li>Portable Solar-Powered Office</li>
   </ul>
 <h1>Frequently Asked Questions</h1>
+  <p>Why haven't heard of this before?</p>
+  <p>A combination of reasons.  Some products like solar calculators and solar wristwatches you likely have heard of.  You may not have known capacitors are used instead of batteries.  The other reason is simply capacity -- only recently did hybrid supercapacitors come out in the market (2020), and even more recently, sizes in the 1100F range (2022).
   <p>Where are hybrid supercapacitors made?</p>
-  <p><a href="https://www.eaton.com/ie/en-gb/company/careers/life-at-eaton/dublin.html">In Dublin</a> by Eaton Electronics; In Asia by cds;</p>
+  <p><a href="https://www.eaton.com/ie/en-gb/company/careers/life-at-eaton/dublin.html">Eaton Electronics</a> in Dublin; cds in Asia;</p>
 <h2>Prior work on this theme</h2>
 <a href="https://orcid.org/0000-0002-8205-0719">Orchid listing of published academic works</a><br/>
 <a href="https://youtu.be/Zicvndw5lNI?si=3cR8pBB4yYd79-CS">Low Carbon Consumer Electronics - presentation from July on Youtube</a>
