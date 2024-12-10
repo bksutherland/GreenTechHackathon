@@ -17,9 +17,9 @@
   </ul>
 <h1>Frequently Asked Questions</h1>
   <p>How do hybrid supercapacitors, also called lithium ion capacitors compare to batteries?</p>
-  <p>Typically they are compared on two dimensions, energy density (ability to store energy in a given volume) and power density (ability to supply the energy quickly from a given volume).   This is called a <a href="https://en.wikipedia.org/wiki/Ragone_plot#/media/File:Lithium_Ion_Capacitor_Chart.png">Ragone plot</a> and you can observe that lithium ion capacitors have a sinilar energy density to low end batteries, and a higher power density.   They recharge and last much longer, however!
+  <p>Typically they are compared on two dimensions, energy density (ability to store energy in a given volume) and power density (ability to supply the energy quickly from a given volume).   This is called a <a href="https://en.wikipedia.org/wiki/Ragone_plot#/media/File:Lithium_Ion_Capacitor_Chart.png">Ragone plot</a> and you can observe that lithium ion capacitors have a sinilar energy density to low end batteries, and a higher power density.   They recharge much more, 500 000x and last much longer, decades -- however!
   <p>Why haven't heard of this before?</p>
-  <p>A combination of reasons.  Some products like solar calculators and solar wristwatches such as the Citizen Eco-Drive you likely have heard of.  You may not have known capacitors are used instead of batteries.  The other reason is simply capacity -- only recently did hybrid supercapacitors come out in the market (2020), and even more recently, sizes in the 1100F range (2022).
+  <p>A combination of reasons.  Some products like solar calculators and solar wristwatches such as the Citizen Eco-Drive, or Swatch solar you may have heard of but were unaware they used capacitors instead of batteries.  The other reason is simply that there are a lot of new advances -- only recently did hybrid supercapacitors come out in the market (2020), and even more recently, sizes in the 1100F range (2022).
   <p>Where are hybrid supercapacitors made?</p>
   <p><a href="https://www.eaton.com/ie/en-gb/company/careers/life-at-eaton/dublin.html">Eaton Electronics</a> in Dublin; cds in Asia;</p>
   <p>What are hybrid supercapacitors made of?</p>
