@@ -13,6 +13,7 @@
     <li>Batteryless Bicycle Tail Light</li>
     <li>Batteryless Bicycle Headlight</li>
     <li>Portable Solar-Powered Office</li>
+    <li>Portable Solar-Powered Office</li>
   </ul>
 <h1>Frequently Asked Questions</h1>
   <p>Why haven't heard of this before?</p>
