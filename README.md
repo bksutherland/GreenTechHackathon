@@ -24,7 +24,7 @@
   <p>Where are hybrid supercapacitors made?</p>
   <p><a href="https://www.eaton.com/ie/en-gb/company/careers/life-at-eaton/dublin.html">Eaton Electronics</a> in Dublin; cds in Asia;</p>
   <p>What are hybrid supercapacitors made of?</p>
-  <p>While it's true that critical minerals like lithium used in hybrid supercapacitors, they recharge and last much longer than rechargeable batteries.  Their use would result in a reduction of the need for critical minerals and it's likely the electronics they were a part of would last longer and in a useable way.</p>
+  <p>While it's true that critical minerals like lithium are used in hybrid supercapacitors, they recharge and last much longer than rechargeable batteries.  More long lasting products would result in a reduction of the need for critical minerals and generate less carbon from mining, manufacturing and eWaste.</p>
 <h2>Prior work on this theme</h2>
 <a href="https://orcid.org/0000-0002-8205-0719">Orchid listing of published academic works</a><br/>
 <a href="https://youtu.be/Zicvndw5lNI?si=3cR8pBB4yYd79-CS">Low Carbon Consumer Electronics - presentation from July on Youtube</a>
