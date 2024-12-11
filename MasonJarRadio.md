@@ -8,6 +8,9 @@ Their blog discusses how they used the mason jar just because they had one handy
 <img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_10.jpg" width="1024">
 <h1 id="partslist">Parts Required</h1> 
 <h1 id="assembly">Assembly</h1> 
+We begin by removing the AA battery clips and soldering in a postive red wire and a negative black wire.   Although this radio uses a small amount of current, using large wires with low power sources has been shown to have a benefit and it supports the longevity of the device.
+<img src="IMG_2458.png"></center><br/>
+The solar cell we will use is this one, it is rated for 3.5V but in full sun it will produce 4.2V.  When solar cells are used to charge capacitors, they always charge to the open circuit voltage, not the rated voltage, due to the lack of resistance compared with batteries.
 <img src="IMG_2458.png"></center><br/>
 <img src="IMG_2459.png"></center><br/>
 <img src="IMG_2460.png"></center><br/>
