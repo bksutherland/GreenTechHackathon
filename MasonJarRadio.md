@@ -7,7 +7,7 @@ Their blog discusses how they used the mason jar just because they had one handy
 <center><img src="IMG_2457.png"></center>
 <h1 id="partslist">Parts Required</h1> 
 <ul>
-  <li><a href="https://thepublicrad.io">The Public Rad.io</a> is available from their website, or the plans for manufacturing them are on Github.  I would recommend getting an extra antenna, as the longer mason jar is more prone to tipping and the antenna usually suffers.  :(  The power regulator on the board is well designed, it will cut off the radio to keep the hybrid supercapacitors from discharging past 2.2V</li>
+  <li><a href="https://thepublicrad.io">The Public Rad.io</a> is available from their website, or the plans for manufacturing them are on Github.  I would recommend getting an extra antenna, as the longer mason jar is more prone to tipping and the antenna usually suffers.  The power regulator on the board is well designed, it will cut off power to the radio to keep the hybrid supercapacitors from discharging past 2.2V</li>
   <li>120x60 3.5V solar panel - produces about 4.2 to 4.3 V open circuit (no load)</li>
   <li>Schottky Diode e.g. IN4004 - this causes a voltage drop of only 0.3 - 0.4V and reduces the voltage from the panel's open circuit 4.2V to 3.9 or 3.8V, protecting the hybrid supercapacitor from overcharging.</li>
   <li>Electronic protoboard like the <a href="https://www.adafruit.com/product/590">Adafruit Full Size PCB</a>.  We will use the busses that run along the length of the boards to wire the hybrid supercapacitors/lithium ion capacitors in parallel
