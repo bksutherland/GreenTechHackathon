@@ -8,4 +8,9 @@ Their blog discusses how they used the mason jar just because they had one handy
 <img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_10.jpg" width="1024">
 <h1 id="partslist">Parts Required</h1> 
 <h1 id="assembly">Assembly</h1> 
+<img src="IMG_2458.png"></center><br/>
+<img src="IMG_2459.png"></center><br/>
+<img src="IMG_2460.png"></center><br/>
+<img src="IMG_2461.png"></center><br/>
+<img src="IMG_2462.png"></center><br/>
 </html>
