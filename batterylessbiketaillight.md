@@ -11,13 +11,15 @@
   <li>Cat foot tin</li>
   <li>Applesauce container (I discovered it's the right size to clip on)</li>
   <li><a href="https://www.adafruit.com/product/589">Small protoboard</a> or cut a large one</li>
-  <li>TP4056 USB recharger (about twenty cents Canadian) can be recovered as ewaste from discarded battery banks or "power blocks"</li>
+  <li>TP4056 USB recharger (about twenty cents new) or you can recover them free as ewaste from discarded battery banks or "power blocks" or vaping units</li>
   <li>Schottky diodes</li>
   <li>Eaton 220F hybrid supercapacitor</li>
+  <li>blinking red LEDs, 3V</li>
 </ul>
 <p>Parts text</p>
 <h1 id="assembly">Assembly</h1> 
 <p>Assembly</p>
+This shows the board, where the hybrid supercapacitor is charged by the TP4056 via a diode.  Ordinary lithium ion batteries charge between 3.7V and 4.2V, the hybrid supercapacitors go between 2.2V and 3.8V.  Like in the public radio project, the diode reduces the 4.2V to about 3.9V so the USB charger only fills the hybrid supercapacitor until it is full then the blue light showing finished blinks on.  As supercapacitors charge much faster than batteries, this will become "full" much faster, an added benefit.
 <img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_15.jpg" width="1024">
 
 <img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_10.jpg" width="1024">
