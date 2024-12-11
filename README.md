@@ -31,7 +31,9 @@
   <p><em>Where do I go for more information?</em></p>
   <p>In the sense this is about the evolution of energy storage components, and they are new in the market, I would watch parts vendors for new products in this space, as well as ususual new smart devices products, solar powered fire alarms.  Where this approach has yet to be successful is in altering existing consumer electronics people commonly use, there is more competition around pricing where the advantage of a longer lasting product would be harder to sell.  Ask yourself why photovoltaic cells were invented almost 100 years ago, but almost no consumer products use them aside from the LG510, Samsung Blue Earth, etc.</p>
 <h1 id="links">Links and References</h1>
-<a href="https://orcid.org/0000-0002-8205-0719">Orchid listing of published academic works</a><br/>
-<a href="https://youtu.be/Zicvndw5lNI?si=3cR8pBB4yYd79-CS">Low Carbon Consumer Electronics - presentation from July on Youtube</a>
+<p>Gao, D., Luo, Z., Liu, C., & Fan, S. (2023). A survey of hybrid energy devices based on supercapacitors. Green Energy & Environment, 8(4), 972–988. <a href="https://doi.org/10.1016/j.gee.2022.02.002">https://doi.org/10.1016/j.gee.2022.02.002</a> - on the use of batteries and supercapacitors together in hybrid systems</br>
+<p><a href="https://orcid.org/0000-0002-8205-0719">Orchid listing of published academic works</a><br/>
+<a href="https://youtu.be/Zicvndw5lNI?si=3cR8pBB4yYd79-CS">Low Carbon Consumer Electronics - presentation from July on Youtube</a><br/>
+</p>
 </body>
 </html>
