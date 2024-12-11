@@ -17,14 +17,18 @@
     <li>Bluetooth Stereo from eWaste</li>
   </ul>
 <h1>Frequently Asked Questions</h1>
-  <p>How do hybrid supercapacitors, also called lithium ion capacitors compare to batteries?</p>
-  <p>Typically energy storage solutions are compared along two dimensions, energy density (ability to store energy in a given volume) and power density (ability to supply the energy at a significant rate from a given volume).   Visually this is called a <a href="https://en.wikipedia.org/wiki/Ragone_plot#/media/File:Lithium_Ion_Capacitor_Chart.png">Ragone plot</a> and you may observe that lithium ion capacitors have a similar energy density to low end batteries, but a higher power density.   Not captured on the plot are that they recharge much more, 500 000x and last much longer, decades!  They also are less affected by low temperatures, which can be useful in a country like Canada.
-  <p>Why haven't heard of this before?</pre></p>
-  <p>A combination of reasons.  Some products like solar calculators and solar wristwatches (such as the Citizen Eco-Drive, or Swatch solar) you may have heard of but were unaware they used capacitors instead of batteries.  The other reason is simply that there are a lot of new advances -- only recently did hybrid supercapacitors come out in the market (2020), and even more recently, sizes in the 1100F range (2022).
-  <p>Where are hybrid supercapacitors made?</p>
-  <p><a href="https://www.eaton.com/ie/en-gb/company/careers/life-at-eaton/dublin.html">Eaton Electronics</a> in Dublin; cds in Asia;</pre></p>
-  <p>What are hybrid supercapacitors made of?</p>
+  <p><em>What is the problem we are trying to solve?</em></p>
+  <p>As per the introduction - two problems specific to technology-use: significant battery waste and it's associated critical mineral problem, and making consumer electronics devices last longer, be repairable and upcyclable.</p>
+  <p><em>How do hybrid supercapacitors, also called lithium ion capacitors compare to batteries?</em></p>
+  <p>Typically energy storage solutions are compared along two dimensions, energy density (ability to store energy in a given volume) and power density (ability to supply the energy at a significant rate from a given volume).   Visually this is called a <a href="https://en.wikipedia.org/wiki/Ragone_plot#/media/File:Lithium_Ion_Capacitor_Chart.png">Ragone plot</a> and you may observe that lithium ion capacitors have a similar energy density to low end batteries, but a higher power density.   Not captured on the plot are that they recharge much more, 500 000x and last much longer, decades!  They also are less affected by low temperatures, which can be useful in a country like Canada.  They are however, harder to use, because the voltage decreases as the capacitors discharge and most electronics are designed around a specific voltage, they don't tolerate voltage variation very well without a regulator.
+  <p><em>Why haven't heard of this before? Why is this possible now?</em></p>
+  <p>Some products like solar calculators and solar wristwatches (such as the Citizen Eco-Drive, or Swatch solar) you may have heard of but were perhaps unaware they used capacitors instead of batteries.  The other reason is simply that there are a lot of new advances in energy storage -- only recently did hybrid supercapacitors come out in the market (2020), and even more recently, sizes in the 1100F range (2022).
+  <p><em>Where are hybrid supercapacitors made?</em></p>
+  <p>Two of the largest mass production vendors are <a href="https://www.eaton.com/ie/en-gb/company/careers/life-at-eaton/dublin.html">Eaton Electronics</a>; cds in Taiwan;   The best price I've seen is $10 for a 1100F cds, delivered.</p>
+  <p><em>What are hybrid supercapacitors made of?</em></p>
   <p>While it's true that critical minerals like lithium are used in hybrid supercapacitors, they recharge and last much longer than rechargeable batteries.  More long lasting products would result in a reduction of the need for critical minerals and generate less carbon from mining, manufacturing and eWaste.</pre></p>
+  <p><em>Where do I go for more information?</em></p>
+  <p>In the sense this is about the evolution of energy storage components, and they are new in the market, I would watch parts vendors for new products in this space, as well as ususual new smart devices products, solar powered fire alarms.  Where this approach has yet to be successful is in altering existing consumer electronics people commonly use, there is more competition around pricing where the advantage of a longer lasting product would be harder to sell.</p>
 <h2>Prior work on this theme</h2>
 <a href="https://orcid.org/0000-0002-8205-0719">Orchid listing of published academic works</a><br/>
 <a href="https://youtu.be/Zicvndw5lNI?si=3cR8pBB4yYd79-CS">Low Carbon Consumer Electronics - presentation from July on Youtube</a>
