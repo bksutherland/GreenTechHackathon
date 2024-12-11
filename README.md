@@ -2,12 +2,13 @@
 <html>
 <body>
 <h1>Hardware Hacks for Batteryless Energy Harvesting Electronics and Computing</h1>
-  <h2>Introduction</h2>
+<p><a href="#introduction">Introduction</a></p> | <a href="speculativeprototypes">Speculative Prototyping Projects</a> | <a href="#faqs">Frequently Asked Questions</a> | <a href="#links">Links and References</a></p>
+  <h2 id="introduction">Introduction</h2>
 <p>Green technology is about reducing the use of materials, energy, and waste systems and their associated carbon footprints.  This hackathon collection documents specific hardware hacks around the use of energy harvesting, batteryless electricity storage, and upcycling prior materials, in the creation of novel sustainable consumer electronics such as media players and computing devices.</p>
 <p><b>Energy harvesting</b> is a strategy where natural sources of ambient energy are converted to stored fuel in various ways.  The ability to make fuel, to absorb ambient energy from the surroundings and render it into useful electricity, makes electricity systems (writ large, like grids) and at consumer scale: devices uniquely non-consuming and sustainable (therefore green).   Wind turbines and solar collectors are a common means of energy harvesting, but a variety of arcane systems exist as well.  Trees for example manifest enough electricity to power small internet of things devices <a href="https://doi.org/10.1109/TNANO.2009.2032293">(Himes, et. al., 2010).</a></p>
 <p><b>Batterylessness</b> is possible in the sense that electricity can be stored physically as well as chemically.  In 1746, Leiden University professor <a href="https://top450.universiteitleiden.nl/en/items/de-uitvinding-van-de-condensator">Pieter van Musschenbroek invented the capacitor</a>, which stores electricity as static charge on non-conducting glass layers, like rubbing a balloon on one's head.  Initially, the capacitors stored small amounts of high voltages, making them somewhat dangerous.  However in 1954, the same year solar panels were invented, low voltage storage capacitors, or supercapacitors were invented by <a href="https://patentimages.storage.googleapis.com/a2/f8/a9/b7d5c04a415c8b/US2800616.pdf">Becker and Ferry</a> which were more properly able to store electricity, although at the time, they had not as much energy density as batteries.  One of the things noted in the invention patent was that depleting the capacitor completely and in various ways seemed to have no effect at all on the supercapacitor's future ability to store charge.  So, unlike batteries, capacitors last for millions of recharges, and decades of use!  Given that the world goes through 15 billion batteries each year, wouldn't it be great if there were more devices like a solar calculator that continue working after half a century!  There's also the phenomenon of battery leakage and obsolescence in devices -- where people discard devices when they don't store power properly, the batteries can't be easily replaced or have leaked and damaged the electronics.  With the advent of ultracapacitors in 2010 and hybrid supercapacitors in 2020, the energy density of these physical storage devices is now comparable to batteries, which makes real change possible.</p>
 <p><b>Upcycling</b> recognizes that not only are there vast quantities of batteries being wasted, but that electronics devices themselves are discarded <a href="https://labs.ripe.net/author/mirjam/what-do-we-do-with-e-waste/">at an unprecidented rate</a>, significantly outpacing proper disposal and recycling programs worldwide.  Would it be possible to make use of the generic parts in new creations?   Musical instruments being absolutely standardized and objects of care appreciate with time, resulting in fewer being discarded.  Degrowth or the slowing down of consumption is mainly about treating the things we own differently with respect to maintenance.  But they also need to be manufactured differently -- for upgrades, parts replacement and repair.</p>
-<h1>Speculative Prototyping Projects</h1>
+<h1 id="speculativeprototypes">Speculative Prototyping Projects</h1>
   <p><a href="https://dunneandraby.co.uk">Dunne and Raby</a> originated the expression critical or speculative prototyping in their design work around 2005, in Hertzian Tales.  The essential idea is to discuss examine and critique social issues by redesigning objects we use (particularly electronics objects) in alternative ways.  With that in mind, here are a number of projects which use the approach outlined in the Introduction.</p>
   <ul>
     <li><a href="https://github.com/bksutherland/GreenTechHackathon/blob/main/MasonJarRadio.md">Batteryless FM Radio in a Mason Jar</a></li>
@@ -16,7 +17,7 @@
     <li>Portable Solar-Powered Office</li>
     <li>Bluetooth Stereo from eWaste</li>
   </ul>
-<h1>Frequently Asked Questions</h1>
+<h1 id="faqs">Frequently Asked Questions</h1>
   <p><em>What is the problem we are trying to solve?</em></p>
   <p>As per the introduction - two problems specific to technology-use: significant battery waste and it's associated <a href="https://www.irena.org/Energy-Transition/Technology/Critical-materials">critical materials or mineral problem</a>, and making consumer electronics devices last longer, be repairable and upcyclable.</p>
   <p><em>How do hybrid supercapacitors, also called lithium ion capacitors compare to batteries?</em></p>
@@ -29,7 +30,7 @@
   <p>While it's true that critical minerals like lithium are used in hybrid supercapacitors, they recharge and last much longer than rechargeable batteries.  More long lasting products would result in a reduction of the need for critical minerals and generate less carbon from mining, manufacturing and eWaste.</pre></p>
   <p><em>Where do I go for more information?</em></p>
   <p>In the sense this is about the evolution of energy storage components, and they are new in the market, I would watch parts vendors for new products in this space, as well as ususual new smart devices products, solar powered fire alarms.  Where this approach has yet to be successful is in altering existing consumer electronics people commonly use, there is more competition around pricing where the advantage of a longer lasting product would be harder to sell.  Ask yourself why photovoltaic cells were invented almost 100 years ago, but almost no consumer products use them aside from the LG510, Samsung Blue Earth, etc.</p>
-<h2>Prior work on this theme</h2>
+<h1 id="links">Links and References</h1>
 <a href="https://orcid.org/0000-0002-8205-0719">Orchid listing of published academic works</a><br/>
 <a href="https://youtu.be/Zicvndw5lNI?si=3cR8pBB4yYd79-CS">Low Carbon Consumer Electronics - presentation from July on Youtube</a>
 </body>
