@@ -12,13 +12,14 @@ We begin by removing the AA battery clips and soldering in a postive red wire an
 <img src="IMG_2458.png"></center><br/>
 <p>The solar cell we will use is this one, it is rated for 3.5V but in full sun it will produce 4.2V.  When solar cells are used to charge supercapacitors, they always charge to the open circuit voltage, not the rated voltage, due to the lack of resistance which capacitors offer compared with batteries.</p>
 <img src="IMG_2463.png"></center><br/>
-<p>The purple cylinders are hybrid supercapacitors made by cds of Taiwan.  Eaton electronics will have <a href="http://www.farnell.com/datasheets/4422020.pdf">1400F capacitors out by 2025</a>.
-  Each one stores about 12,000 J as it charges to 4V then discharges to 2.2V.<br/>
+<p>The purple cylinders are hybrid supercapacitors made by cds of Taiwan.  Eaton electronics will have <a href="http://www.farnell.com/datasheets/4422020.pdf">1400F capacitors out by 2025 (thanks, Niall!)</a>.
+Each hybrid supercapacitor stores about 12,000 J as it charges to 4V then discharges to 2.2V.<br/>
 Joules = C V ^2 (Charged) - C V ^2 (Discharged) -<br/>
 1100F x 4V^2 - 1100F x 2.2V^2<br/>
 17600 - 5364 J<br/>
 12236 J<br/>
-Hybrid supercapacitors ship fully charged, usually with the long foot (positive voltage) in a plastic tube.  As they can discharge MUCH faster than batteries when they short circuit, it is important in handling them to take special care as a significant heating occurs across the leads for anything conductive which causes a short circuit.  A short circuited hybrid supercapacitor will spontaneous melt a line of solder, or make a wire glow red and melt the insulation for example.  So proper handling!
+<p>Hybrid supercapacitors ship fully charged, usually with the long foot (positive voltage) in a plastic tube.  As they can discharge MUCH faster than batteries when they short circuit, it is important in handling them to take special care as a significant heating occurs across the leads for anything conductive.  A short circuited hybrid supercapacitor will spontaneous melt a line of solder, or make a wire glow red and melt the plastic insulation for example.  So proper handling!  Doesn't go in a pocket with change, for example. :)</p>
+<p>A single 1100F hybrid supercapacitor will power The Public Rad.io for about 15h at medium volume.  Having six of them will ensure listening for an entire day where a  without a sunny day occurs. </p>
 </p>
 <img src="IMG_2459.png"></center><br/>
 <img src="IMG_2460.png"></center><br/>
