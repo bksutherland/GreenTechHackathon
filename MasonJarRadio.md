@@ -20,7 +20,7 @@ Their blog discusses how they used the mason jar just because they had one handy
 <img src="IMG_2463.png"></center><br/>
 <p>The purple cylinders are hybrid supercapacitors made by cds of Taiwan.  Eaton electronics will have <a href="http://www.farnell.com/datasheets/4422020.pdf">1400F capacitors out by 2025 (thanks, Niall!)</a>.
 Each hybrid supercapacitor stores about 12,000 J as it charges to 4V then discharges to 2.2V.<br/>
-Joules = C V ^2 (Charged) - C V ^2 (Discharged) -<br/>
+Joules = C V ^2 (Charged) - C V ^2 (Discharged) -<br/><br/>
 1100F x 4V^2 - 1100F x 2.2V^2<br/>
 17600 - 5364 J<br/>
 12236 J<br/>
