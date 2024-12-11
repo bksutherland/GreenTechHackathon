@@ -25,7 +25,7 @@
   <p><em>Why haven't heard of this before? Why is this possible now?</em></p>
   <p>Some products like solar calculators and solar wristwatches (such as the <a href="https://www.citizenwatch.com/ca/en/technology-eco-drive.html">Citizen Eco-Drive</a>, or Swatch solar) you may have heard of but were perhaps unaware they used capacitors instead of batteries.  The other reason is simply that there are a lot of new advances in energy storage -- only recently did hybrid supercapacitors come out in the market (2020), and even more recently, sizes in the 1100F range (2022).
   <p><em>Where are hybrid supercapacitors made?</em></p>
-  <p>Two of the largest mass production vendors are <a href="https://www.eaton.com/ie/en-gb/company/careers/life-at-eaton/dublin.html">Eaton Electronics</a>; cds in Taiwan;   The best price I've seen is $10 for a 1100F cds, delivered.</p>
+  <p>Two of the largest mass production vendors are <a href="https://www.eaton.com/ie/en-gb/company/careers/life-at-eaton/dublin.html">Eaton Electronics</a>; cds in Taiwan;   The best price I've seen is $10 (Cdn) for a 1100F cds, delivered.</p>
   <p><em>What are hybrid supercapacitors made of?</em></p>
   <p>While it's true that critical minerals like lithium are used in hybrid supercapacitors, they recharge and last much longer than rechargeable batteries.  More long lasting products would result in a reduction of the need for critical minerals and generate less carbon from mining, manufacturing and eWaste.</pre></p>
   <p><em>Where do I go for more information?</em></p>
