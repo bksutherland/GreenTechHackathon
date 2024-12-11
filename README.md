@@ -18,7 +18,7 @@
   </ul>
 <h1>Frequently Asked Questions</h1>
   <p><em>What is the problem we are trying to solve?</em></p>
-  <p>As per the introduction - two problems specific to technology-use: significant battery waste and it's associated critical mineral problem, and making consumer electronics devices last longer, be repairable and upcyclable.</p>
+  <p>As per the introduction - two problems specific to technology-use: significant battery waste and it's associated <a href="https://www.irena.org/Energy-Transition/Technology/Critical-materials">critical materials or mineral problem</a>, and making consumer electronics devices last longer, be repairable and upcyclable.</p>
   <p><em>How do hybrid supercapacitors, also called lithium ion capacitors compare to batteries?</em></p>
   <p>Typically energy storage solutions are compared along two dimensions, energy density (ability to store energy in a given volume) and power density (ability to supply the energy at a significant rate from a given volume).   Visually this is called a <a href="https://en.wikipedia.org/wiki/Ragone_plot#/media/File:Lithium_Ion_Capacitor_Chart.png">Ragone plot</a> and you may observe that lithium ion capacitors have a similar energy density to low end batteries, but a higher power density.   Not captured on the plot are that they recharge much more, 500 000x and last much longer, decades!  They also are less affected by low temperatures, which can be useful in a country like Canada.  They are however, harder to use, because the voltage decreases as the capacitors discharge and most electronics are designed around a specific voltage, they don't tolerate voltage variation very well without a regulator.
   <p><em>Why haven't heard of this before? Why is this possible now?</em></p>
