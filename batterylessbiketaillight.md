@@ -11,7 +11,7 @@
   <li>Cat foot tin</li>
   <li>Applesauce container (I discovered it's the right size to clip on)</li>
   <li><a href="https://www.adafruit.com/product/589">Small protoboard</a> or cut a large one</li>
-  <li>TP4056 USB recharger (about twenty cents new) or you can recover them free as ewaste from discarded battery banks or "power blocks" or vaping units</li>
+  <li>TP4056 USB recharger (about twenty cents new) or you can recover them free as ewaste from discarded battery banks, power blocks or vaping units.  Be careful obviously not to pierce the lithium ion batteries during disassembly - do it outside</li>
   <li>Schottky diodes</li>
   <li>Eaton 220F hybrid supercapacitor</li>
   <li>blinking red LEDs, 3V</li>
