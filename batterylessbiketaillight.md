@@ -17,10 +17,9 @@
 >Eaton 220F hybrid supercapacitor</a> (HSL variety, good to - 25C)</li>
   <li>blinking red LEDs, 3V</li>
 </ul>
-<p>Parts text</p>
 <h1 id="assembly">Assembly</h1> 
-<p>Assembly</p>
-This shows the board, where the hybrid supercapacitor is charged by the TP4056 via a diode.  Ordinary lithium ion batteries charge between 3.7V and 4.2V, the hybrid supercapacitors go between 2.2V and 3.8V.  Like in the public radio project, the diode reduces the 4.2V to about 3.9V so the USB charger only fills the hybrid supercapacitor until it is full then the blue light showing finished blinks on.  As supercapacitors charge much faster than batteries, this will become "full" much faster, an added benefit.
+<p>
+This shows the board, where the hybrid supercapacitor is charged by the TP4056 via a diode.  Ordinary lithium ion batteries charge between 3.7V and 4.2V, the hybrid supercapacitors go between 2.2V and 3.8V.  Like in the public radio project, the diode reduces the 4.2V to about 3.9V so the USB charger only fills the hybrid supercapacitor until it is full then the blue light showing finished blinks on.  As supercapacitors charge much faster than batteries, this will become "full" much faster, an added benefit -- fast charging!</p>
 <img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_15.jpg" width="1024">
 
 <img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_11.jpg" width="1024">
