@@ -14,7 +14,7 @@ Their blog discusses how they used the mason jar just because they had one handy
   <li>~1000 Farad Hybrid Supercapacitors also known as Lithium Ion Capacitors - available from <a href="https://en.cda-cap.com/">cds of Taiwan</a> via <a href="https://www.aliexpress.com/item/1005005413033296.html">Aliexpress</a> or <a href="https://www.farnell.com/datasheets/4422020.pdf">Eaton Electronics</a> via <a href="https://ie.farnell.com/eaton-electronics/hsh1850-3r8108-r/super-cap-hs-hybrid-1000f-3-8v/dp/4575000">Farnell</a> in large sizes.
 </ul>
 <h1 id="assembly">Assembly</h1> 
-We begin by removing the AA battery clips and soldering in a postive red wire and a negative black wire.   Although this radio uses a small amount of current, using large wires with low power sources has been shown to have a benefit and it supports the longevity of the device.
+<p>We begin by removing the AA battery clips and soldering in a postive red wire and a negative black wire.   Although this radio uses a small amount of current, using large wires with low power sources has been shown to have a benefit and it supports the longevity of the device.</p>
 <img src="IMG_2458.png"></center><br/>
 <p>The solar cell we will use is this one, it is rated for 3.5V but in full sun it will produce 4.2V.  When solar cells are used to charge supercapacitors, they always charge to the open circuit voltage, not the rated voltage, due to the lack of resistance which capacitors offer compared with batteries.</p>
 <img src="IMG_2463.png"></center><br/>
