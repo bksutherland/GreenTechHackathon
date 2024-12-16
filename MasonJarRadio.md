@@ -4,7 +4,8 @@
 <h1 id="introduction">Introduction</h1>                                                                         
 <p><a href="https://thepublicrad.io">The Public Rad.io</a> is a single station FM Tuner in a Mason jar <a href="https://github.com/The-Public-Radio">open source project</a> by Zach Dunham and Spencer Wright <a href="https://www.kickstarter.com/projects/centerlinelabs/kickstarter-gold-the-public-radio-the-single-stati?ref=44759g">crowdfunded on Kickstarter</a> into being.
 Their blog discusses how they used the mason jar just because they had one handy and needed to test the speakers for their radio design, but the general benefit is that it in choosing an established standard for packaging goods, <a href="https://en.wikipedia.org/wiki/Mason_jar">since 1858</a>, it is easy to change the container for the radio.  Note that it isn't actually a single station radio, it is possible for a user to change the station by unscrewing the jar and hitting the seek button. Few listeners are actually station-hoppers, though: most prefer to return to their favourite station and programming.</p>
-<center><img src="IMG_2457.png"></center>
+<center><img src="IMG_2457.png"></center><br/>
+<center><img src="IMG_2473.png" width="640"></center>
 <h1 id="partslist">Parts Required</h1> 
 <ul>
   <li><a href="https://thepublicrad.io">The Public Rad.io</a> is available from their website, or the plans for manufacturing them are on Github.  I would recommend getting an extra antenna, as the longer mason jar is more prone to tipping and the antenna usually suffers.  The power regulator on the board is well designed, it will cut off power to the radio to keep the hybrid supercapacitors from discharging past 2.2V</li>
