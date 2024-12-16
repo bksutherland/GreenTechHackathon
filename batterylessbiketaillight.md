@@ -24,6 +24,7 @@ This shows the board, where the hybrid supercapacitor is charged by the TP4056 v
 <img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_15.jpg" width="1024">
 <center><img src="biketailcircuit.png" width="1024"></center>
 <center><img src="biketailcircuitsw.png" width="1024"></center>
+<p>It is important that the USB port face the LED direction.  That way it's just a case of popping the applesauce cover off to recharge it.   You could also add a 3.5 V solar panel if you lock up your bike outdoors, to recharge the light.</p>
 <center><a href="https://youtu.be/3hVyfMZMsoM"><img src="biketaillightassembly.png" width="1024"></a></center>
 
 </html>
