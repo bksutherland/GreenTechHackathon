@@ -17,7 +17,7 @@ Their blog discusses how they used the mason jar just because they had one handy
 <h1 id="assembly">Assembly</h1> 
 <p>We begin by removing the AA battery clips and soldering in a positive red wire and a negative black wire.   Although this radio uses a small amount of current, using large wires with low power sources has been shown to have a benefit and it supports the longevity of the device.</p>
 <img src="IMG_2458.png"></center><br/>
-<p>The solar cell we will use is this one, it is rated for 3.5V but <a href="https://github.com/bksutherland/GreenTechHackathon/blob/main/solarcell_oc.png">in full sun it will produce 4.2V</a>.  When solar cells are used to charge supercapacitors, they always charge to the open circuit voltage, not the rated voltage, due to the lack of resistance which capacitors offer compared with batteries.</p>
+<p>The solar cell we will use is this one, it is rated for 3.5V but <a href="https://github.com/bksutherland/GreenTechHackathon/blob/main/solarcell_oc.png">in full sun it will produce 4.2V</a>.  When solar cells are used to charge supercapacitors, they always charge to the open circuit voltage, not the rated voltage, due to the lack of resistance which capacitors offer compared with batteries.  Solder a wire to the positive and one to the negative - although this photo illustrates the ends, if you use the middle copper circles, the wires can stay twisted and neat (you may be using old ethernet or phone wire).</p>
 <img src="IMG_2463.png"></center><br/>
 <p>The purple cylinders are hybrid supercapacitors made by cds of Taiwan.  Eaton electronics will have <a href="http://www.farnell.com/datasheets/4422020.pdf">1400F capacitors out by 2025 (thanks, Niall!)</a>.
 Each hybrid supercapacitor stores about 6 000 J as it charges to 4V then discharges to 2.2V.<br/>
@@ -27,10 +27,11 @@ Joules = 1/2 C V ^2 (Charged) - 1/2 C V ^2 (Discharged) -<br/><br/>
 6118 J<br/>
 <p>Hybrid supercapacitors ship fully charged, usually with the long foot (positive voltage) in a plastic tube.  As they can discharge MUCH faster than batteries when they short circuit, it is important in handling them to take special care as a significant heating occurs across the leads for anything conductive.  A short circuited hybrid supercapacitor will spontaneous melt a line of solder, or make a wire glow red and melt the plastic insulation for example.  So proper handling!  Doesn't go in a pocket with change, for example. :)</p>
 <p>A single 1100F hybrid supercapacitor will power The Public Rad.io for about 15h at medium volume.  Having six of them wired in parallel will ensure listening for an entire day and a week without a sunny days with the opportunity to recharge from the panel.</p>
-</p>
+<p>To avoid short circuiting, is useful to solder all the negative leads, clip the steel legs out of the way, then solder the positive leads.  Then gradually, one at a time, attach jumper wires from the positive lead-row to the power bus that runs the length of the board.  The diode positive end goes into the positive bus, where the supply is the solar panel.   A wire from the positive power bus goes directly to the radio.</p>
 <img src="IMG_2459.png"></center><br/>
 <img src="IMG_2460.png"></center><br/>
 <img src="IMG_2461.png"></center><br/>
 <img src="IMG_2462.png"></center><br/>
+<p>It is useful to turn the radio on slowly, i.e. with zero volume at first, as the hybrid supercapacitors can manifest a significant surge.  On some models I have added a thermistor, this is a black disk resistor that absorbs current surges, then as it heats up the resistance drops to zero.</p>
 <img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_10.jpg" width="1024">
 </html>
