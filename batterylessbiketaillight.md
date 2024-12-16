@@ -2,7 +2,7 @@
 <h1>Batteryless Bicycle Tail Light</h1>
 <p><a href="README.md"> ⬆️</a> | <a href="batterylessbiketaillight.md#Introduction">Introduction</a> | <a href="batterylessbiketaillight.md#partslist">Parts Required</a> | <a href="batterylessbiketaillight.md#assembly">Assembly</a></p>
 <h1 id="introduction">Introduction</h1>
-<center><img src="biketaillight.png" width="800"></center>
+<center><img src="biketaillight.png" width="640"></center>
 <center><a href="https://www.youtube.com/watch?v=6zdH6_dc45E"><img src="taillight.png" width="640"></a></center></br>
 [Click the image to view the video]
 <p>A bicycle is a must for reducing the carbon impact of transportation and Dutch design culture, along with many others is at the fore of integrating bicycle-use into daily life.  One current problem with the use of bicycles year-round and at any time of day however, is the use after dark particularly during the winter in northern climates, making brighter, more sustainable lighting desirable for safer travelling.  This is where the hybrid supercapacitor can really score -- 500,000x recharges, it isn't affected by cold like batteries.  This tail light is made from ewaste and a few cheap electronics components. The recipe makes use of one hybrid supercapacitor, an old tuna tin, an applesauce container, and some blinky red LEDs.  Unlike batteries, supercapacitor voltages are minimally affected by extreme cold.</p>
