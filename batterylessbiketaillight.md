@@ -23,10 +23,10 @@
 This shows the board, where the hybrid supercapacitor is charged by the TP4056 via a diode.  Ordinary lithium ion batteries charge between 3.7V and 4.2V, the hybrid supercapacitors go between 2.2V and 3.8V.  Like in the public radio project, the diode reduces the 4.2V to about 3.9V so the USB charger only fills the hybrid supercapacitor until it is full then the blue light showing finished blinks on.  As supercapacitors charge much faster than batteries, this will become "full" much faster, an added benefit -- fast charging!</p>
 <img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_15.jpg" width="1024">
 <center><img src="biketailcircuit.png" width="1024"></center>
-<center><img src="biketailcircuitsw.png" width="1024"></center>
-<p>It is important that the USB port face the LED direction.  That way it's just a case of popping the applesauce cover off to recharge it.   You could also add a 3.5 V solar panel if you lock up your bike outdoors, to recharge the light.</p>
 <p>[Click the image below to view the video]</p>
 <center><a href="https://youtu.be/3hVyfMZMsoM"><img src="biketaillightassembly.png" width="1024"></a></center>
 <p>For those who are familiar with electronics, this is the design to transfer to the protoboard:</p>
 <center><img src="taillight_circuit_diagram.png" width="1024"></center>
+<center><img src="biketailcircuitsw.png" width="1024"></center>
+<p>When you add the TP4056, it is important that the USB port face the LED direction.  That way it's just a case of popping the applesauce cover off any time you want to recharge the light.   You could also add a 3.5 V solar panel if you lock up your bike outdoors, to recharge the light.  Old iMacs use high strength rare earth magnets to hold the glass cover on.  This is great for temporarily attaching a bike tail light.</p>
 </html>
