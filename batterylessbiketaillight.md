@@ -28,5 +28,5 @@ This shows the board, where the hybrid supercapacitor is charged by the TP4056 v
 <p>[Click the image below to view the video]</p>
 <center><a href="https://youtu.be/3hVyfMZMsoM"><img src="biketaillightassembly.png" width="1024"></a></center>
 <p>For those who are familiar with electronics, this is the design to transfer to the protoboard:</p>
-<center><img src="taillight_circuit diagram.png" width="1024"></center>
+<center><img src="taillight_circuit_diagram.png" width="1024"></center>
 </html>
