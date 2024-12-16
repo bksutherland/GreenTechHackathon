@@ -2,7 +2,7 @@
 <h1>Batteryless Bicycle Tail Light</h1>
 <p><a href="README.md"> ⬆️</a> | <a href="batterylessbiketaillight.md#Introduction">Introduction</a> | <a href="batterylessbiketaillight.md#partslist">Parts Required</a> | <a href="batterylessbiketaillight.md#assembly">Assembly</a></p>
 <h1 id="introduction">Introduction</h1>
-<center><img src="biketailcircuit.png"></center>
+<center><img src="biketaillight.png" width="1024"></center>
 <center><a href="https://www.youtube.com/watch?v=6zdH6_dc45E"><img src="taillight.png" width="640"></a></center></br>
 [Click the image to view the video]
 <p>A bicycle is a must for reducing the carbon impact of transportation and Dutch design culture, along with many others is at the fore of integrating bicycle-use into daily life.  One current problem with the use of bicycles year-round and at any time of day however, is the use after dark particularly during the winter in northern climates, making brighter, more sustainable lighting desirable for safer travelling.  This is where the hybrid supercapacitor can really score -- 500,000x recharges, it isn't affected by cold like batteries.  This tail light is made from ewaste and a few cheap electronics components. The recipe makes use of one hybrid supercapacitor, an old tuna tin, an applesauce container, and some blinky red LEDs.  Unlike batteries, supercapacitor voltages are minimally affected by extreme cold.</p>
@@ -22,6 +22,7 @@
 <p>
 This shows the board, where the hybrid supercapacitor is charged by the TP4056 via a diode.  Ordinary lithium ion batteries charge between 3.7V and 4.2V, the hybrid supercapacitors go between 2.2V and 3.8V.  Like in the public radio project, the diode reduces the 4.2V to about 3.9V so the USB charger only fills the hybrid supercapacitor until it is full then the blue light showing finished blinks on.  As supercapacitors charge much faster than batteries, this will become "full" much faster, an added benefit -- fast charging!</p>
 <img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_15.jpg" width="1024">
-
+<center><img src="biketailcircuit.png" width="1024"></center>
+<center><img src="biketailcircuitsw.png" width="1024"></center>
 <img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_11.jpg" width="1024">
 </html>
