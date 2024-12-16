@@ -11,8 +11,8 @@
   <li>Cat foot tin</li>
   <li>Applesauce container (I discovered it's the right size to clip on)</li>
   <li><a href="https://www.adafruit.com/product/589">Small protoboard</a> or cut a large one</li>
-  <li>TP4056 USB recharger (about twenty cents new) or you can recover them free as ewaste from discarded battery banks, power blocks or vaping units.  Be careful obviously not to pierce the lithium ion batteries during disassembly - do it outside</li>
-  <li>Schottky diodes</li>
+  <li>TP4056 USB recharger (about twenty cents new) or you can recover them free as ewaste from discarded battery banks, power blocks or vaping units.  Be careful obviously not to pierce old lithium ion batteries during disassembly - do it outside!</li>
+  <li>Schottky diode - the cutoff voltage of the TP4056 charger is 4.2V by inserting a Schottky diode that takes 0.4V we arrive at the cutoff voltage of the hybrid supercapacitor - 3.8V </li>
   <li><a href="https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-supercapacitor-hybrid-cylindrical-cells-data-sheet.pdf"
 >Eaton 220F hybrid supercapacitor</a> (HSL variety, good to - 25C)</li>
   <li>blinking red LEDs, 3V</li>
