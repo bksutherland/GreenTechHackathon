@@ -24,5 +24,4 @@ This shows the board, where the hybrid supercapacitor is charged by the TP4056 v
 <img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_15.jpg" width="1024">
 <center><img src="biketailcircuit.png" width="1024"></center>
 <center><img src="biketailcircuitsw.png" width="1024"></center>
-<img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_11.jpg" width="1024">
 </html>
