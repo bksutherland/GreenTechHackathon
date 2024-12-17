@@ -3,7 +3,7 @@
 <p><a href="README.md"> ⬆️</a> | <a href="bluetoothewastestereo.md#Introduction">Introduction</a> | <a href="bluetoothewastestereo.md#partslist">Parts Required</a> | <a href="bluetoothewastestereo.md#assembly">Assembly</a></p>
 <h1 id="introduction">Introduction</h1>                                                                         
 <p>The Bluetooth stereo from eWaste is a singularly low cost construction.  It uses an old iMac aluminum frame and foot, a solar panel, recycled car speakers, and a combination 18650 battery charger/bluetooth speaker amplifier.</p>
-<p align="center"><img src="BT_stereo_01.png" width="640"></p>
+<p align="center"><img src="BT_stereo_02.png" width="640"></p>
 <h1 id="partslist">Parts Required</h1> 
 <p>
   <ul>
@@ -21,5 +21,5 @@
 To charge the board, solder the 12-5V USB voltage converter to the solar panel as in the solar briefcase project.  Place a recycled 18650 in the battery slot, attach a USB-A from the converter to the mini USB input of the battery charger.  The converter LED glows red when it has a voltage, and the battery charger shows red while charging, and green when full.  </p>
 <p align="center"><img src="BT_stereo_03.png" width="320"></p>
 <p>Pair your streaming media device with the bluetooth device to hear it through the speakers.   The battery holds 2-3h of charge, so after dark, the stereo will continue for hours! </p>
-<p align="center"><img src="BT_stereo_02.png" width="320"></p>
+<p align="center"><img src="BT_stereo_01.png" width="480"></p>
 </html>
