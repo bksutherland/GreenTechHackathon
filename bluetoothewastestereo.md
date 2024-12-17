@@ -9,7 +9,7 @@
   <ul>
     <li>20W 12 Volt solar panel</li>
         <li>12V -> 5V USB voltage converter</li>
-        <li><a href="https://www.aliexpress.com/item/1005003399765292.html"></a>PAM8403 or XH-A153</a> battery charger and Bluetooth speaker amplifier</li>
+        <li><a href="https://www.aliexpress.com/item/1005003399765292.html">PAM8403 or XH-A153</a> battery charger and Bluetooth speaker amplifier</li>
         <li>18650 battery (from ewaste)</li>
         <li>iMac 27" aluminum foot (from eWaste)</li>
         <li>high fidelity speakers (from wrecked luxury cars)</li>
