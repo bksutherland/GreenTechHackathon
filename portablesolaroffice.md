@@ -7,7 +7,7 @@
 <h1 id="partslist">Parts Required</h1> 
 <p><ul>
   <li>20W solar panel</li>
-  <li>USB power conversion circuit for car battery</li>
+  <li>USB power conversion circuit for car battery</br></br><img src="solarbriefcase_04.png" width="240"></br></li>
   <li>artist's easel-briefcase</br></br><img src="solarbriefcase_01.png" width="240"></br></li>
 </ul>
 </p>
