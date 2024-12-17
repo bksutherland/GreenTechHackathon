@@ -7,7 +7,7 @@
 <h1 id="partslist">Parts Required</h1> 
 <p><ul>
   <li>20W solar panel</li>
-  <li>USB power conversion circuit for car battery</br></br>
+  <li><a href="https://www.aliexpress.com/item/1005005614895112.html">12 - 5V USB power conversion circuit</a> for charging smartphones in the car</br></br>
   <p align="center"><img src="solarbriefcase_04.png" width="240"></p></li>
   <li>artist's easel-briefcase</br></br>
   <p align="center"><img src="solarbriefcase_01.png" width="240">,</p></li>
