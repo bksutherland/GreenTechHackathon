@@ -12,6 +12,6 @@
 </ul>
 </p>
 <h1 id="assembly">Assembly</h1> 
-<p>Attach the solar panel to the struts which normally hold up the frame for an artist's canvas.  Solder the 12 V power leads coming out the back to the 5V USB conversion circuit.  In full sun, plug into the laptop which charges from USB.</p>
-<img src="solarbriefcase_03.png" width="240"></br>
+<p>Attach the solar panel to the struts which normally hold up the frame for an artist's canvas.  Solder the 12 V power leads coming out the back to the 5V USB conversion circuit.  In full sun, plugging in a laptop which charges from USB will stop the battery from discharging, particularly for a high efficiency ARM laptop.</p>
+<p>For additional capability, use a maximum power poin transfer (<a href="https://en.wikipedia.org/wiki/Maximum_power_point_tracking">MPPT</a>) board like the Waveshare, which can store the power to 18650 lithium ion batteries commonly available from discarded laptop batteries, as well as maximizing the power produced from the panel.</p><img src="solarbriefcase_03.png" width="240"></br>
 </html>
