@@ -20,6 +20,6 @@
   
 To charge the board, solder the 12-5V USB voltage converter to the solar panel as in the solar briefcase project.  Place a recycled 18650 lithium polymer battery in the battery slot, attach a USB-A from the converter to the mini USB input of the battery charger.  The 12V to 5V USB voltage converter LED glows red when it has a voltage, and the battery charger shows red while charging, and green when full.  </p>
 <p align="center"><img src="BT_stereo_03.png" width="320"></p>
-<p>Pair your streaming media device with the bluetooth device to hear it through the speakers.  The yellow LED indicates pairing has occurred.  The 18650 battery holds 2-3h of charge, so after dark, the stereo will continue for hours! </p>
+<p>Pair your streaming media device with the bluetooth device to hear it through the speakers.  The yellow LED indicates pairing has occurred.  The 18650 battery holds 2-3h of charge, so after dark, the stereo will continue for hours!  Make sure to wrap any exposed components in electrical tape, so they don't ground on the aluminum frame. </p>
 <p align="center"><img src="BT_stereo_01.png" width="480"></p>
 </html>
