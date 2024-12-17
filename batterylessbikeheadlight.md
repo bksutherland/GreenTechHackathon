@@ -10,10 +10,18 @@
 <p>To build this project you will need:
 <ul>
   <li>1100F 4V cds Hybrid Supercapacitor (or similar capacity from a different manufacturer)</li>
-  <li>Seiko 1/3/5 Watt warm white LEDs</li><br/><img src="bikeheadlight_03.png" width="640"></li>
+  <li>1 Seiko 1/3/5 Watt warm white LEDs</li><br/><img src="bikeheadlight_03.png" width="640"></li>
+  <li>LED reflector and plastic insert (optional, can be bought in bulk)</li>
+  <li>TP4056 lithium ion battery charger (can be harvested from an old battery bank or brick or purchased new for < $1)</li>
+  <li>Schottky diode - IN4004 or equivalent</li>
+  <li>High wattage resistor (more than 1/4 W), 20-100 ohms, to adjust the run time/brightness. Could be a negative coefficient thermistor, whose resistance approaches zero as it heats up.</li>
+  <li>Switch, preferably high wattage.  A small switch will work but it might not be long lasting, the leads tend to spot weld themselves if there isn't any resistor controlling the current.</li>
 </ul>
 </p>
 <h1 id="assembly">Assembly</h1> 
-<p>Assembly</p>
-<img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_12.jpg" width="1024">
+<p>The assembly involves attaching a diode to the B+ pin of the TP4046, and the other end to the positive lead of the hybrid supercapacitor.  The negative lead attaches to B-.  This completes the charging system for the capacitor storage, and you could test it at this point.  When the TP4056 reaches 4.2V, less 0.4V for the diode drop (3.8V), it will cease charging the hybrid supercapacitor.   Now you will want to attach a positive and negative wire to these other wires, in front of the diode -- these go to the switch and light circuit.  The positive goes into the switch, then through a resistor, then out to the positive foot of the Seiko LED.  The negative attaches to the negative foot.  While designs vary, the negative foot is often notched and there is a + sign on the positive foot if you look carefully.  You can also establish the positive and negative just by testing it.</p>
+    <p align="center"><img src="bikeheadlight_01.png" width="800"></p>
+     <p align="center"><img src="bikeheadlight_02.png" width="800"></p>
+     <p align="center"><img src="bikeheadlight_03.png" width="800"></p>
+     <p align="center"><img src="bikeheadlight_04.png" width="800"></p>
 </html>
