@@ -33,5 +33,4 @@ Joules = 1/2 C V ^2 (Charged) - 1/2 C V ^2 (Discharged) -<br/><br/>
 <img src="IMG_2461.png"></center><br/>
 <img src="IMG_2462.png"></center><br/>
 <p>Since the volume control is actually variable resistor is useful to turn the radio on slowly, i.e. with zero volume at first, as the hybrid supercapacitors can manifest a significant surge, before advancing the radio to the desired volume.  Or you can add a thermistor, this is a black disk resistor that absorbs current surges, then as it heats up the resistance drops to zero.</p>
-<img src="Hardware_Hacks_for_Batteryless_Energy_Harvesting_Computing_Page_10.jpg" width="1024">
 </html>
