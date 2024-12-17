@@ -8,7 +8,7 @@
 <p><ul>
   <li>20W solar panel</li>
   <li>USB power conversion circuit for car battery</li>
-  <li>artist's easel-briefcase</br><img src="solarbriefcase_01.png" width="480"></br></li>
+  <li>artist's easel-briefcase</br></br<img src="solarbriefcase_01.png" width="240"></br></li>
 </ul>
 </p>
 <h1 id="assembly">Assembly</h1> 
