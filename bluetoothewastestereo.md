@@ -8,7 +8,7 @@
 <p>
   <ul>
     <li>20W 12 Volt solar panel (10W may also work)</li>
-        <li>12V -> 5V USB voltage converter</li>
+        <li><a href="https://www.aliexpress.com/item/1005005614895112.html">12V -> 5V USB voltage converter</a></li>
         <li><a href="https://www.aliexpress.com/item/1005003399765292.html">PAM8403 or XH-A153</a> battery charger + Bluetooth speaker amplifier</li>
         <li>18650 battery (from ewaste)</li>
         <li>iMac 27" aluminum foot (from eWaste)</li>
