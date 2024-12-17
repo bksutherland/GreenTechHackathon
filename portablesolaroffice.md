@@ -8,9 +8,10 @@
 <p><ul>
   <li>20W solar panel</li>
   <li>USB power conversion circuit for car battery</li>
-  <li>artist's easel-briefcase</br></br<img src="solarbriefcase_01.png" width="240"></br></li>
+  <li>artist's easel-briefcase</br></br><img src="solarbriefcase_01.png" width="240"></br></li>
 </ul>
 </p>
 <h1 id="assembly">Assembly</h1> 
 <p>Attach the solar panel to the struts which normally hold up the frame for an artist's canvas.  Solder the 12 V power leads coming out the back to the 5V USB conversion circuit.  In full sun, plug into the laptop which charges from USB.</p>
+<img src="solarbriefcase_03.png" width="240"></br>
 </html>
