@@ -16,7 +16,7 @@
   </ul>
 </p>
 <h1 id="assembly">Assembly</h1> 
-<p>Two ways of attaching the solar panel securely to the iMac frame: short screws into a thin piece of hardwood from the back, or (more securely) into a thicker piece of hardwood with long screws on either side.  The battery charger + Bluetooth speaker amplifier has holes in the circuit board in either end that can attach with small bolts through corresponding holes in the iMac frame, or via screws into the back of the wood.   
+<p>Two ways of attaching the solar panel securely to the iMac frame: short screws into a thin piece of hardwood from the back, or (more securely, less chance of damaging the cells) into a thicker piece of hardwood using long screws drilled into either side of the solar panel.  The battery charger + Bluetooth speaker amplifier has holes in the circuit board in either end that can attach with small bolts through corresponding holes in the iMac frame, or via screws into the back of the wood.   
   
 To charge the board, solder the 12-5V USB voltage converter to the solar panel as in the solar briefcase project.  Place a recycled 18650 lithium polymer battery in the battery slot, attach a USB-A from the converter to the mini USB input of the battery charger.  The 12V to 5V USB voltage converter LED glows blue when it has a voltage, and the battery charger shows red while charging, and green when full.  </p>
 <p align="center"><img src="BT_stereo_03.png" width="320"></p>
