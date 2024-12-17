@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>Hardware Hacks for Batteryless Energy Harvesting Electronics and Computing</h1>
-<p align="center"><img src="hackathon.png" width="200" height="200"></p>
+<a href="https://github.com/RIPE-Atlas-Community/Green-Tech/"><p align="center"><img src="hackathon.png" width="200" height="200"></p></a>
 <p><a href="README.md#introduction">Introduction</a> | <a href="README.md#speculativeprototypes">Speculative Prototyping Projects</a> | <a href="README.md#faqs">Frequently Asked Questions</a> | <a href="README.md#links">Links and References</a></p>
   <h2 id="introduction">Introduction</h2>
 <p>Green technology is about reducing the use of materials, energy, and waste systems and their associated carbon footprints.  This hackathon collection documents specific hardware hacks around the use of energy harvesting, batteryless electricity storage, and upcycling prior materials, in the creation of novel sustainable consumer electronics such as media players and computing devices.</p>
