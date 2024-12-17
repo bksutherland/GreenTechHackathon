@@ -14,7 +14,7 @@
   <li>LED reflector and plastic insert (optional, can be bought in bulk)</li>
   <li>TP4056 lithium ion battery charger (can be harvested from an old battery bank or power brick or purchased new for < $1)</li>
   <li>Schottky diode - IN4004 or equivalent</li>
-  <li>High wattage resistor (more than 1/4 W), 20-100 ohms, to adjust the run time/brightness. Could be a negative coefficient thermistor, whose resistance approaches zero as it heats up.</li>
+  <li>High wattage resistor (more than 1/4 W), 20-100 ohms, to adjust the run time/brightness. This could be a negative temperature coefficient thermistor, whose resistance approaches zero as it heats up.</li>
   <li>Switch, preferably high wattage.  A small, low wattage switch is good for testing, but it might not last long, the leads tend to spot weld themselves if there isn't any regulation (resistor) reducing the surge current.</li>
 </ul>
 </p>
