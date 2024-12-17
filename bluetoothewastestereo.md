@@ -2,7 +2,7 @@
 <h1 id="top">Bluetooth Stereo From eWaste</h1>
 <p><a href="README.md"> ⬆️</a> | <a href="bluetoothewastestereo.md#Introduction">Introduction</a> | <a href="bluetoothewastestereo.md#partslist">Parts Required</a> | <a href="bluetoothewastestereo.md#assembly">Assembly</a></p>
 <h1 id="introduction">Introduction</h1>                                                                         
-<p>The Bluetooth stereo from eWaste is a singularly low cost construction.  It uses an old iMac aluminum frame and foot, a solar panel, recycled car speakers, and a combination 18650 battery charger/bluetooth speaker amplifier.</p>
+<p>The Bluetooth stereo from eWaste is a singularly low cost electronics project  It uses an old iMac aluminum frame and foot, a solar panel, recycled car speakers, and a combination 18650 battery charger/bluetooth speaker amplifier.  The 18650 rechargeable cells you can pull from old laptop batteries!</p>
 <p align="center"><img src="BT_stereo_02.png" width="640"></p>
 <h1 id="partslist">Parts Required</h1> 
 <p>
