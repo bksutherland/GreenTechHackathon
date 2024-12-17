@@ -10,7 +10,7 @@
 <p>To build this project you will need:
 <ul>
   <li>1100F 4V cds Hybrid Supercapacitor (or similar capacity from a different manufacturer)</li>
-  <li>Seiko 1/3/5 Watt warm white LEDs</li><br/><img src="bikeheadlight_01.png"></li>
+  <li>Seiko 1/3/5 Watt warm white LEDs</li><br/><img src="bikeheadlight_03.png" width="640"></li>
 </ul>
 </p>
 <h1 id="assembly">Assembly</h1> 
