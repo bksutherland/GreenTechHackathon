@@ -20,6 +20,6 @@
   
 To charge the board, solder the 12-5V USB voltage converter to the solar panel as in the solar briefcase project.  Place a recycled 18650 lithium polymer battery in the battery slot, attach a connection cable: USB-A from the voltage converter to the mini USB input of the battery charger.  The 12V to 5V USB voltage converter LED glows blue when it has a voltage, and the battery charger shows red while charging, green when full.  </p>
 <p align="center"><img src="BT_stereo_03.png" width="320"></p>
-<p>Pair your streaming media device with the bluetooth device to hear it through the speakers.  The yellow LED indicates pairing has occurred.  The 18650 battery holds 2-3h of charge, so after dark, the stereo will continue for hours!  Make sure to wrap any exposed components in electrical tape, so they don't ground on the aluminum frame. </p>
+<p>Attach the ewaste speakers to the appropriate wires supplied with the board. The best kind by way of frequency response are a combination woofer-tweeter, often found in the automobile scrapyard in discarded luxury cars, however any speakers should work.  Pair your streaming media device with the bluetooth device to hear it through the speakers.  The yellow LED indicates pairing has occurred.  The 18650 battery holds 2-3h of charge, so after dark, the stereo will continue for hours!  Make sure to wrap any exposed components in electrical tape, so they don't ground on the aluminum frame. </p>
 <p align="center"><img src="BT_stereo_01.png" width="480"></p>
 </html>
