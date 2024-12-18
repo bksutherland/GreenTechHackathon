@@ -10,7 +10,7 @@
 <h1 id="partslist">Parts Required</h1> 
 <ul>
   <li>Small cat food tin</li>
-  <li>Applesauce container (I discovered this is the right size to clip on to the tuna can, with striated lines in the plastic to scatter light)</li>
+  <li>Applesauce container (I discovered this is the right size to snap on to the tuna can, and it has striated lines in the plastic to scatter light.  An adhesive tape-hinge also works.)</li>
   <li><a href="https://www.adafruit.com/product/589">Small protoboard</a> or cut a large one</li>
   <li>TP4056 USB recharger (about twenty cents new) or you can recover them free as ewaste from discarded battery banks, power blocks or vaping units.  Be careful obviously not to pierce old lithium ion batteries during disassembly - do it outside!</li>
   <li>2 x 1N4004 Schottky diode or similar - the cutoff voltage of the TP4056 charger is 4.2V.  By inserting a Schottky diode in the circuit that drops the voltage 0.4V we arrive at the cutoff voltage required by the hybrid supercapacitor - 3.8V.  If we drop it again to 3.4V when we power the LEDs, this is within their range.</li>
