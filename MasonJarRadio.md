@@ -32,5 +32,5 @@ Joules = 1/2 C V ^2 (Charged) - 1/2 C V ^2 (Discharged) -<br/><br/>
 <img src="IMG_2460.png"></center><br/>
 <img src="IMG_2461.png"></center><br/>
 <img src="IMG_2462.png"></center><br/>
-<p>Since the volume control is actually variable resistor is useful to turn the radio on slowly, i.e. with zero volume at first, as the hybrid supercapacitors can manifest a significant surge, before advancing the radio to the desired volume.  Or you can add a thermistor, this is a black disk resistor that absorbs current surges, then as it heats up the resistance drops to zero.</p>
+<p>Since the volume control is actually variable resistor is useful to turn the radio on slowly, i.e. with zero volume at first, as the hybrid supercapacitors can manifest a significant surge, before advancing the radio to the desired volume.  Or you can add a negative temperature coefficient (NTC) thermistor, this is a black disk resistor that absorbs current surges, then as it heats up the resistance drops to zero.</p>
 </html>
