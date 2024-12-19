@@ -36,7 +36,7 @@
   <p>Gao, D., Luo, Z., Liu, C., & Fan, S. (2023). A survey of hybrid energy devices based on supercapacitors. Green Energy & Environment, 8(4), 972–988. <a href="https://doi.org/10.1016/j.gee.2022.02.002">https://doi.org/10.1016/j.gee.2022.02.002</a> - on the use of batteries and supercapacitors together in hybrid systems</br>
   <p>Angulo, F., Navarro, L., Quintero M., C. G., & Pardo, M. (2021). A Simple WiFi Harvester with a Switching-Based Power Management Scheme to Collect Energy from Ordinary Routers. Electronics, 10(10), Article 10. <a href="https://doi.org/10.3390/electronics10101191">https://doi.org/10.3390/electronics10101191</a> - electromagnetic energy (wifi) harvester, like Tesla envisaged.
 </a><br/>
-  Thanks to Andy Byrne. Niall O'Reilly. Cristian Sirbu who helped with the FAQ at the Amsterdam RIPE GreenTech Hackathon!   Comments or questions to: b.sutherland@utoronto.ca
+  Thanks to Andy Byrne, Niall O'Reilly, and Cristian Sirbu who helped with the FAQ at the Amsterdam RIPE GreenTech Hackathon!   Comments or questions to: b.sutherland@utoronto.ca
 </p>
 </body>
 </html>
