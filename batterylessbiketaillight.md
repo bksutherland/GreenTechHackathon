@@ -9,7 +9,7 @@
 
 <h1 id="partslist">Parts Required</h1> 
 <ul>
-  <li>Small cat food tin</li>
+  <li>Small cat food tin or tuna can</li>
   <li>Applesauce container (I discovered this is the right size to snap on to the tuna can, and it has striated lines in the plastic to scatter light.  An adhesive tape-hinge also works.)</li>
   <li><a href="https://www.adafruit.com/product/589">Small protoboard</a> or cut a large one</li>
   <li>TP4056 USB recharger (about twenty cents new) or you can recover them free as ewaste from discarded battery banks, power blocks or vaping units.  Be careful obviously not to pierce old lithium ion batteries during disassembly - do it outside!</li>
