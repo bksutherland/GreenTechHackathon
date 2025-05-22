@@ -26,7 +26,7 @@ Joules = 1/2 C V ^2 (Charged) - 1/2 C V ^2 (Discharged) -<br/><br/>
 8800 - 2682 J<br/>
 6118 J<br/>
 <p>Hybrid supercapacitors ship fully charged, usually with the long foot (positive voltage) in a plastic tube.  As they can discharge MUCH faster than batteries when they short circuit, it is important in handling them to take special care as a significant heating occurs across the leads for anything conductive.  A short circuited hybrid supercapacitor will spontaneous melt a line of solder, or make a wire glow red and melt the plastic insulation for example.  So proper handling!  Doesn't go in a pocket with change, for example. :)</p>
-<p>A single 1100F hybrid supercapacitor will power The Public Rad.io for about 15h at medium volume.  Having six of them wired in parallel will ensure listening for an entire day and a week without a sunny days with the opportunity to recharge from the panel.</p>
+<p>A single 1100F hybrid supercapacitor will power The Public Rad.io for about 15h at medium volume.  Having six of them wired in parallel will ensure listening for an entire  week without a sunny days with the opportunity to recharge from the panel.</p>
 <p>To avoid short circuiting, is useful to solder all the negative leads, clip the steel legs out of the way, then solder the positive leads.  Then gradually, one at a time, attach jumper wires from the positive lead-row to the power bus that runs the length of the board.  The diode positive end goes into the positive bus, where the supply is the solar panel.   In the photo, observe the red wire from the radio attaches directly to the positive power bus, while the black ground wire goes to the ground bus.</p>
 <img src="IMG_2459.png"></center><br/>
 <img src="IMG_2460.png"></center><br/>
